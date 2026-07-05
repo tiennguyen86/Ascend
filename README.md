@@ -1,14 +1,14 @@
-# Polaris
+# Ascend
 
-> **Navigate your future. One decision at a time.**
+> **Grow smarter. Build faster. Go further.**
 
-Polaris is an AI-powered Career Operating System built on top of the Orbit platform.
+Ascend is an AI-powered Career Intelligence Platform that helps people learn, build, and grow throughout their careers.
 
-It is designed to become a lifelong AI companion that helps people learn, build, grow, and navigate their careers.
+Unlike traditional AI assistants that only answer questions, Ascend is designed to become a long-term AI companion that understands your goals, tracks your progress, and helps you make better career decisions.
 
-Unlike traditional AI chatbots, Polaris doesn't simply answer questions.
+Our mission is simple:
 
-It understands long-term goals, remembers progress, analyzes skills, and actively helps users move toward their future.
+> **Help people become the best version of themselves.**
 
 ---
 
@@ -16,58 +16,39 @@ It understands long-term goals, remembers progress, analyzes skills, and activel
 
 The future of AI is not another language model.
 
-The future of AI is an intelligent application that works alongside humans.
+The future belongs to intelligent applications that actively help people achieve meaningful goals.
 
-Polaris exists to become that application.
-
-A personal AI that grows with you from your first day of university to your entire professional career.
+Ascend is built for that future.
 
 ---
 
-# Core Philosophy
+# Core Features
 
-Most AI products answer questions.
-
-Polaris helps people achieve goals.
-
-Instead of asking:
-
-> "What can AI tell me?"
-
-Users should ask:
-
-> "What can AI help me accomplish?"
-
----
-
-# Long-Term Features
-
-## Learning Intelligence
+## 📚 Learning Intelligence
 
 - Personalized learning roadmap
-- AI Coach
+- AI Learning Coach
+- Knowledge graph
+- Progress tracking
 - Daily study planner
-- Knowledge tracking
-- Skill graph
-- Progress analytics
 - Active Recall
 - Spaced Repetition
 
 ---
 
-## Career Intelligence
+## 💼 Career Intelligence
 
 - Resume Analyzer
 - Portfolio Review
 - GitHub Analysis
 - LinkedIn Optimization
+- Career Roadmap
+- Skill Gap Analysis
 - Salary Estimation
-- Career Path Recommendation
-- Skill Gap Detection
 
 ---
 
-## Interview Intelligence
+## 🎯 Interview Intelligence
 
 - AI Mock Interview
 - Coding Interview
@@ -77,77 +58,72 @@ Users should ask:
 
 ---
 
-## Productivity Intelligence
+## 🚀 Productivity Intelligence
 
-- Daily Planning
+- Daily Planner
 - Weekly Goals
-- Habit Tracking
+- Habit Tracker
 - Calendar Integration
-- Email Integration
 - Meeting Summary
+- Email Assistant
 
 ---
 
-## Development Intelligence
+## 💻 Developer Intelligence
 
 - AI Coding Assistant
-- Project Planner
 - Architecture Review
-- Bug Analysis
 - Code Review
+- Bug Analysis
+- Project Planning
 - Deployment Guidance
 
 ---
 
-## Job Intelligence
+## 🌎 Opportunity Intelligence
 
-- Job Recommendation
 - Internship Discovery
+- Job Recommendation
 - Freelance Opportunities
 - Upwork Preparation
 - Personalized Application Strategy
 
 ---
 
-## Memory
+# Long-Term Vision
 
-Polaris remembers:
+Ascend is not just another productivity application.
 
-- goals
-- projects
-- learning history
-- achievements
-- preferences
-- career journey
+It is designed to become an AI companion that grows together with its users.
 
-It grows together with its user.
+From the first day of university...
 
----
+To the first internship...
 
-# Future Vision
+To the first job...
 
-Polaris is only the beginning.
+To becoming a senior engineer...
 
-It is the first flagship application powered by Orbit.
+To building a company...
 
-As Orbit evolves into an AI Workspace, Polaris will become one of many intelligent agents working together inside a unified ecosystem.
+Ascend will always be there.
 
 ---
 
 # Technology Stack (Planned)
 
-Frontend
+### Frontend
 
 - Next.js
 - React
-- TailwindCSS
+- Tailwind CSS
 
-Backend
+### Backend
 
 - FastAPI
 - Python
 
-AI
+### AI
 
 - LangGraph
 - LangChain
@@ -155,9 +131,9 @@ AI
 - RAG
 - Multi-Agent System
 - Vector Database
-- Memory Engine
+- Long-Term Memory
 
-Infrastructure
+### Infrastructure
 
 - PostgreSQL
 - Redis
@@ -165,7 +141,7 @@ Infrastructure
 - Kubernetes
 - AWS / GCP
 
-Observability
+### Observability
 
 - OpenTelemetry
 - Grafana
@@ -173,7 +149,7 @@ Observability
 
 ---
 
-# Development Principles
+# Development Philosophy
 
 Build applications.
 
@@ -183,74 +159,97 @@ Build systems.
 
 Not prompts.
 
-Build workflows.
-
-Not conversations.
-
 Build products.
 
 Not models.
 
----
+Build solutions.
 
-# Mission
-
-To become the AI companion that helps millions of people build extraordinary careers.
+Not features.
 
 ---
 
-# Relationship with Orbit
+# Roadmap
 
-Orbit provides the platform.
+## Phase 1 — Foundation
 
-Polaris demonstrates what the platform can become.
+- Authentication
+- AI Chat
+- Memory
+- Learning Roadmap
+- AI Coach
 
-One ecosystem.
+## Phase 2 — Career Intelligence
 
-Infinite possibilities.
+- Resume Review
+- GitHub Analysis
+- Portfolio Analysis
+- Skill Graph
+
+## Phase 3 — Productivity
+
+- Planner
+- Habit Tracking
+- Calendar
+- Email
+- Notes
+
+## Phase 4 — AI Agents
+
+- Career Agent
+- Coding Agent
+- Research Agent
+- Interview Agent
+
+## Phase 5 — Ecosystem
+
+- Plugins
+- API
+- Marketplace
+- Team Workspace
 
 ---
 
 # First Commit
 
-**Date:** July 6, 2026
+**Date**
+
+July 6, 2026
 
 This repository marks the beginning of a long journey.
 
 No users.
 
+No stars.
+
 No investors.
 
 No revenue.
 
-Only a vision.
+Only curiosity, ambition, and the willingness to build something meaningful.
 
-One day, people may measure this project by its stars, downloads, or users.
+Every great product starts as a single repository.
 
-Today, it is measured by something far more important:
-
-The courage to begin.
+Today, Ascend begins.
 
 ---
 
 # A Story
 
-Every great journey starts with a direction.
+Every expert was once a beginner.
 
-Ships once crossed oceans by following the North Star.
+Every engineer once wrote their first line of code.
 
-Today, careers navigate a world changing faster than ever before.
+Every successful career started with a single decision.
 
-Polaris was created to become that North Star.
+Ascend exists for that first decision.
 
-Not to replace human ambition.
+And every decision after it.
 
-But to guide it.
+The goal isn't to compete with others.
 
-The future belongs not to those who know everything.
+The goal is to become better than you were yesterday.
 
-It belongs to those who never stop learning.
+Keep ascending.
 
-Welcome to Polaris.
-
-⭐
+🚀
